@@ -1,0 +1,933 @@
+
+
+	body {
+		font-size: 16px;
+		color:green;
+		background-color:skyblue; 
+		font-family: 'Oxygen', sans-serif;
+	  }
+	  
+	  h1 { 
+		  font-family: 'Lora', sans-serif;
+		  color:#ffffff;
+		  font-size: 1.5em;
+		  font-weight: bold;
+		  margin-top: 0;
+		  margin-bottom: 0;
+		  line-height: .75;
+	  }
+	  
+	  h2 { 
+		  font-family: 'Lora', sans-serif;
+		  color:tomato;
+		  /*font-size: 1.8em;*/
+		  font-weight: bold;
+		  margin-top: 20px;
+		  line-height: .75;
+	  }
+	  
+	  h3 { 
+		  font-family: 'Lora', sans-serif;
+		  /*font-size: 1.3em;*/
+		  font-weight: bold;
+	  }
+	  
+	  .home
+	  {
+		color:pink;
+		text-shadow:brown 1px 2px;
+		font-family: cursive;
+		font-size:x-large;	
+font-style: bold;
+text-align: center;
+
+
+	  }
+	  .home:hover{
+		
+		background-color: rosybrown;
+		text-shadow:brown 1px 2px;
+
+font-style: bold;
+text-align: center;
+
+	  }
+	  .about
+	  {
+		
+		color:pink;text-shadow:brown 1px 2px;
+		font-family: cursive;
+		font-size:x-large;	
+
+font-style: bold;
+	  }
+	  .about:hover{
+		
+		
+	background-color: rosybrown;
+	text-shadow:brown 1px 2px;
+
+font-style: bold;
+
+	  }
+	  .abouth
+	  {
+		
+		color:pink;
+		text-shadow:brown 1px 2px;
+		font-family: cursive;
+		font-size:x-large;	
+
+font-style: bold;
+	  }
+	  .abouth:hover{
+		
+	
+	background-color: rosybrown;
+	text-shadow:brown 1px 2px;
+
+font-style: bold;
+	  }
+	  .form-group>input
+	  {margin-left: 80%;
+		color:brown; 
+		background-color: silver transparent;
+	  }
+	  .btn btn-info
+	  {
+		  margin-left: 110%;
+	  }
+	  /*get experience word */
+	  .h
+	  {
+		  color:pink;text-shadow:brown 1px 2px;
+		  font-family: cursive;
+font-size: x-large;
+
+	  }
+.h:hover
+{
+	font-size:x-large;	
+	background-color: rosybrown;
+	text-shadow:brown 1px 2px;
+}
+	  
+	  .header
+	  {
+		background-color: turquoise transparent;  
+	  }
+	  #main-content
+	  {
+		
+		margin-left:10%;
+		margin-right:5%;
+		margin-top:45%;
+	
+
+	  }
+	  #main-content1
+	  {
+		
+		margin-left:5%;
+		margin-right:5%;
+		margin-top:5%;
+	  }
+
+		/* image6 */
+		.image6
+		{
+			border:14px;
+			border-color: palevioletred; 
+			border-style: groove;
+		}
+	  
+	  /* holiday page view more */
+	  #main-content2
+	  {
+		display: none;
+		margin-left:5%;
+		margin-right:5%;
+		margin-top:5%;
+	
+
+	  }
+	  .thumbnail
+	  {
+		border:20px solid rgb(65, 57, 57);
+		  
+	  }
+	  
+	   /* holiday page view more */
+	  #main-content3
+	  {
+		display: none;
+		margin-left:5%;
+		margin-right:5%;
+		margin-top:5%;
+	
+
+	  }
+	   /* holiday page view more */
+	  #main-content4
+	  {
+		display: none;
+		margin-left:5%;
+		margin-right:5%;
+		margin-top:5%;
+	
+
+	  }
+	.img-rounded{
+		
+			border:3px solid maroon;
+		
+	  }
+	
+	 
+	  .paragraph>h1
+	  {
+		  line-height: 67px;
+	  margin-left:15%;
+		margin-right:5%;
+	  position: absolute;
+		  margin-top:-25%;
+text-shadow: 2px 2px red;
+color:white;
+font-size: xx-large;
+text-align: center;
+	  }
+	  
+	  /* index home page */
+	  .marquee1
+	  {
+		line-height: 67px;
+		margin-left:15%;
+		position: absolute;
+		  margin-top:-65%;
+text-shadow: 2px 2px red;
+color:black;
+font-size: xx-large;
+text-align: center;  
+	  }
+	   /* index home page */
+	  .marquee2
+	  {
+		 
+		margin-left:15%;
+		margin-right:15%;
+		padding-left: 10%;
+		position: absolute;
+		  margin-top:-45%;
+		  text-shadow: 2px 2px red;
+		  color:rgb(143, 19, 122);
+		  font-size: xx-large;
+background-color: powderblue;
+text-align: center;  
+
+	  }
+	   /* index home page */
+	   .div
+	   {
+		 margin-left:25%;
+		 margin-right:25%;
+		 position: absolute;
+		   margin-top:-35%;
+ background-color: salmon;
+ padding-right:50%; 
+ 
+
+	   }
+	   /* index home page */
+	   .div
+	   {
+		 margin-left:23%;
+		
+		 position: absolute;
+		   margin-top:-35%;
+ background-color: salmon;
+ padding-right:50%; 
+ 
+
+	   }
+	   /* index home page */
+	   .div1
+	   {
+		 margin-left:28%;
+		
+		 position: absolute;
+		   margin-top:-33%;
+ background-color: rgb(160, 29, 90);
+ padding-right:40%; 
+ 
+
+	   }
+	    /* index home page */
+		
+		.div2
+		{
+		  margin-left:33%;
+		 
+		  position: absolute;
+			margin-top:-31%;
+  background-color: tomato;
+  padding-right:30%; 
+  
+ 
+		}
+	   /* about page top pic */
+	   #cf {
+		
+	
+		margin-top: 7%;
+		margin-left:5%;
+		margin-right:5%;
+	  }
+	   /* about page top pic */
+	 #bottom
+	 {border:9px  double purple;
+		
+		margin-left:5%;
+		margin-right:5%;
+		
+			 
+	 }
+	   /* about page top pic */
+	  #cf img#bottom:hover {
+		border:9px  double peru;
+	
+		margin-left:5%;
+		margin-right:5%;
+      
+	  }
+	  
+	   .container-fluid li
+	   {
+		margin-top: 14%;
+	   }
+	   /*contain  menu word*/
+	  .container-fluid
+	  {
+		background-color:palevioletred;
+		 
+		padding-bottom: 5%;
+	  }
+	  /*contain  get experience*/
+	  .navbar-brand
+	  {margin-top: 10%;
+		background-color:palevioletred;
+		 
+		 
+	  }
+	 
+	  /* about page main content */
+	  #main-contentabout
+	  {
+		
+		margin-left:5%;
+		margin-right:5%;
+		margin-top:5%;
+	
+	  }
+	  /* img about */
+	  #img-c
+	  {
+		  border: tomato 4px dashed;
+	  }
+	  /* about page vission and all */
+	  #logo
+	  {
+		
+		margin-left:5%;
+		margin-right:5%;
+		margin-top:5%;
+		
+		
+	
+
+	  }
+	  /* jumbtron about page */
+	  .jumbotron
+	  {
+		  background-color: rgb(34, 87, 141);
+	  }
+	 /* design withot limit about page */
+	  .envato
+	  {
+		margin-left:5%;
+		margin-right:5%;
+		 
+	  }
+	  /* paragraph under  design withot limit about page */
+	  .para
+	  { margin-left:5%;
+		margin-right:15%;
+		background: linear-gradient(to right,blue ,green);
+		  padding-bottom: 10%;;
+		  position :absolute;
+		 color:white;
+		 font-family: cursive;
+		  font-size: x-large;
+		  justify-content: center;
+margin-top: 20px;
+opacity: .50;
+	  }
+	  /* video class about page */
+	  .video
+	  {
+		margin-left:17%;
+		width:50%;
+		height:70%;
+		margin-top: 15vw;
+	box-shadow: 0 5px 25px pink;
+    position: absolute;
+  
+    
+}
+/* main  video class about page */
+.mainvideo
+{
+	width:100%;
+	height:100%;
+}
+/* table about page */
+.table
+{ border: 4px solid dashed palevioletred;
+	display:grid;
+	grid-template-columns: 20% 20% 20% 20%;
+	grid-template-rows: 100%;
+	margin-top:60%;
+	margin-left: 15%;
+	margin-right: 10%;
+	padding-bottom: 10%;
+}
+/* design withot limits word */
+	  .h11
+	  {
+		
+			font-weight: inherit;
+			font-style: inherit;
+			font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Fira Sans,Helvetica Neue,Arial,sans-serif;
+			font-size: 26px;
+			line-height: 28px;
+			font-weight: 700;
+			letter-spacing: 0;
+			margin-left: 40%;
+			color: #fff;
+			text-shadow: 2px 2px red;
+		
+	  }
+	  
+/* footer1about */
+.footer1about
+	  {
+		margin-left:5%;
+		margin-right:5%;
+	     background-color:gainsboro;
+		 padding-bottom: 20%;
+		
+	  }
+	  /* titlefooterabout */
+	  .titlefooterabout
+	  {	  font-weight: 100%;
+		  
+		  color:skyblue;
+
+		  font-family: cursive;
+		  margin-left:30%;
+		 
+	  }
+	  #brand1
+	  {
+		  background-color: linear-gradient( blue ,skyblue);
+	  }
+	  /* button in about page */
+	  #bu1
+	  {
+		position:absolute;  
+		top: 85%;
+  left: 30%;
+	  }
+	   /* button in about page */
+	  #bu2
+	  {
+		position:absolute;  
+		top: 85%;
+  left: 30%;
+	  }
+	   /* button in about page */
+	  #bu3
+	  {
+		position:absolute;  
+		top: 85%;
+  left: 30%;
+	  }
+	  /* p1 paragraph */
+	  #p1
+	  {
+		
+	   width:100%;
+		height:100%;
+		  display:none;
+		  font-size: small;
+	  
+color:white;
+	  }
+	  #p2
+	  {
+	
+		width:100%;
+		height:100%;
+		  display:block;
+		  font-size: small;
+	  
+color:white;
+	  }
+	  #p4
+	  {
+		
+	   width:100%;
+		height:100%;
+		  display:none;
+		  font-size: small;
+	  
+color:white;
+	  }
+	  #p3
+	  {
+	
+		width:100%;
+		height:100%;
+		  display:block;
+		  font-size: small;
+	  
+color:white;
+	  }
+	  #p6
+	  {
+		
+	   width:100%;
+		height:100%;
+		  display:none;
+		  font-size: small;
+	  
+color:white;
+	  }
+	  #p5
+	  {
+	
+		width:100%;
+		height:100%;
+		  display:block;
+		  font-size: small;
+	  
+color:white;
+	  }
+	  .name
+	  {
+		  text-shadow:  0 0 4px pink, 0 0 6px palevioletred;
+		  
+		  color:red;
+		  font-weight: 200;
+		  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+		  font-size:xx-large;
+		  text-overflow: clip;
+	  }
+	  .main-c 
+	  {
+		background-color:orchid;
+	
+		margin-left:5%;
+		margin-right:5%;
+		margin-top:5%;
+		  
+	  }
+	  #main-c1 
+	  {
+		background-color:orchid;
+		
+		margin-left:5%;
+		margin-right:5%;
+		margin-top:5%;
+		  
+	  }
+	  
+	  .a
+	  {background-color:orchid;
+		margin-left:5%;
+		margin-right:5%;
+		margin-top:80%;  
+		
+	  }
+	  #image5
+	  { 
+		  width:100%;
+		  height:80%;
+		  border:2px dashed palevioletred'
+	  }
+	  .item
+	  {
+		width:100%;
+		height:100%; 
+	
+	  }
+	  /* footer */
+	  .footer
+	  {
+		margin-left:5%;
+		margin-right:5%;
+		margin-bottom: 5%;
+		  background-color:gainsboro;
+		 border:3px dashed sienna;
+		  margin-top:70%;
+		  padding-bottom: 20%;
+	  }
+	  .titlefooter
+	  {	  font-weight: 100%;
+		  
+		  color:skyblue;
+		  
+		  font-family: cursive;
+		  margin-left:30%;
+		  margin-bottom:3%;
+	  }
+
+
+
+
+
+	  /** #################################################################### **/
+	  /** ============= Media queries ===================== **/
+	  
+	  /********** Large devices only **********/
+	  @media (min-width: 1200px) {
+	  .navbar-brand h1 {font-size: 2em;}
+	  h2 { font-size: 1.8em; }
+	  h3 { font-size: 1.5em; }
+	  }
+	  
+	  /********** Medium devices only **********/
+	  @media (min-width: 992px) and (max-width: 1199px) { 
+	  .navbar-brand h1 {font-size: 1.8em;}
+	  h2 { font-size: 1.5em; }
+	  h3 { font-size: 1.3em; }
+	  }
+	  
+	  /********** Small devices only **********/
+	  @media (min-width: 768px) and (max-width: 991px) { 
+	  .navbar-brand h1 {font-size: 1.5em;}
+	  h2 { font-size: 1.3em; }
+	  h3 { font-size: 1.1em; }
+	   /* index home page */
+	   .marquee1
+	   {
+		 line-height: 67px;
+		 margin-left:15%;
+		 position: absolute;
+		   margin-top:-67%;
+ text-shadow: 2px 2px red;
+ color:black;
+ font-size: xx-large;
+ text-align: center;  
+	   }
+	  .video
+			{
+			  margin-left:15%;
+			  width:50%;
+			  height:30%;
+			  
+			  margin-top: 15vw;
+		  
+		  box-shadow: 0 5px 25px pink;
+		  position: absolute;
+		
+		  
+	  }
+	  .mainvideo
+	  {
+		width:100%;
+		height:100%;  
+	  }
+	  .para
+	  { margin-left:5%;
+		margin-right:15%;
+		background: linear-gradient(to right,blue ,green);
+		  padding-bottom: 5%;;
+		  position :absolute;
+		 color:white;
+		 font-family: cursive;
+		  font-size: small;
+		  justify-content: center;
+margin-top: 20px;
+opacity: .50;
+	  }
+	  #bu1
+	  {
+		position:absolute;  
+		top: 90%;
+  left: 30%;
+	  }
+	   /* button in about page */
+	  #bu2
+	  {
+		position:absolute;  
+		top: 90%;
+  left: 30%;
+	  }
+	   /* button in about page */
+	  #bu3
+	  {
+		position:absolute;  
+		top: 90%;
+  left: 30%;
+	  }
+	  .name
+	  { margin-left: 55%;
+		  text-shadow:  0 0 4px pink, 0 0 6px palevioletred;
+		  text-align:center;
+		  color:red;
+		  font-weight: 200;
+		  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+		  font-size:x-large;
+		  text-overflow: clip;
+	  }
+	  .paragraph>h1
+	  {
+		  line-height: 67px;
+	  margin-left:15%;
+		margin-right:5%;
+	  position: absolute;
+		  margin-top:-25%;
+text-shadow: 2px 2px red;
+color:white;
+font-size: large;
+text-align: center;
+	  }
+	  
+	  }
+	  
+	  /********** Extra small devices only **********/
+	  @media (max-width: 767px) { 
+	  .navbar-brand h1 {font-size: 1.5em;} 
+	  h2 { font-size: 1.3em; }
+	  h3 { font-size: 1.1em; }
+	   /* index home page */
+	   .marquee1
+	   {
+		 line-height: 67px;
+		 margin-left:15%;
+		 position: absolute;
+		   margin-top:-68%;
+ text-shadow: 2px 2px red;
+ color:black;
+ font-size: xx-large;
+ text-align: center;  
+	   }
+	  .video
+	  {
+		margin-left:15%;
+		width:50%;
+		height:30%;
+		
+		margin-top: 15vw;
+	
+	box-shadow: 0 5px 25px pink;
+	position: absolute;
+  
+	
+}
+.mainvideo
+{
+  width:100%;
+  height:100%;  
+}
+.para
+{ margin-left:5%;
+  margin-right:15%;
+  background: linear-gradient(to right,blue ,green);
+	padding-bottom: 5%;;
+	position :absolute;
+   color:white;
+   font-family: cursive;
+	font-size: small;
+	justify-content: center;
+margin-top: 20px;
+opacity: .50;
+}
+#bu1
+{
+  position:absolute;  
+  top: 90%;
+left: 35%;
+}
+ /* button in about page */
+#bu2
+{
+  position:absolute;  
+  top: 90%;
+left: 35%;
+}
+ /* button in about page */
+#bu3
+{
+  position:absolute;  
+  top: 90%;
+left: 35%;
+}
+.name
+{ margin-left: 55%;
+	text-shadow:  0 0 4px pink, 0 0 6px palevioletred;
+	text-align:center;
+	color:red;
+	font-weight: 200;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	font-size:x-large;
+	text-overflow: clip;
+}
+.paragraph>h1
+	  {
+		  line-height: 47px;
+	  margin-left:15%;
+		margin-right:5%;
+	  position: absolute;
+		  margin-top:-25%;
+text-shadow: 2px 2px red;
+color:white;
+font-size:small;
+text-align: center;
+	  }
+	 
+	  }
+
+	  /********** Small devices only **********/
+	  @media (min-width: 991px) and (max-width: 1125px) { 
+		.video
+		{
+		  margin-left:15%;
+		  width:50%;
+          height:50%;
+		  
+		  margin-top: 15vw;
+	  
+	  box-shadow: 0 5px 25px pink;
+	  position: absolute;
+	
+	  
+  }
+  .marquee1
+  {
+	line-height: 67px;
+	margin-left:15%;
+	position: absolute;
+	  margin-top:-60%;
+text-shadow: 2px 2px red;
+color:black;
+font-size: large;
+text-align: center;  
+  }
+  .mainvideo
+  {
+	width:100%;
+	height:100%;  
+  }
+  .paragraph>h1
+	  {
+		 
+	  margin-left:15%;
+		margin-right:5%;
+	  position: absolute;
+		  margin-top:-25%;
+text-shadow: 2px 2px red;
+color:white;
+font-size: large;
+text-align: center;
+	  }
+	  
+	
+}
+
+		/*small device */
+		  /********** Extra small devices only **********/
+		  @media (max-width: 535px) { 
+			.navbar-brand h1 {font-size: 1.5em;} 
+			h2 { font-size: 1.3em; }
+			h3 { font-size: 1.1em; }
+			.paragraph>h1
+	  {
+		 
+	  margin-left:10%;
+		margin-right:5%;
+	  position: absolute;
+		  margin-top:-25%;
+text-shadow: 2px 2px red;
+color:white;
+font-size:small;
+text-align: center;
+	  }
+	 
+	
+			.video
+			{
+			  margin-left:15%;
+			  width:50%;
+			  height:29%;
+			  
+			  margin-top: 20vw;
+		  
+		  box-shadow: 0 5px 25px pink;
+		  position: absolute;
+		
+		  
+	  }
+	  .mainvideo
+	  {
+		width:100%;
+		height:100%;  
+	  }
+	  .para
+	  { margin-left:5%;
+		margin-right:15%;
+		background: linear-gradient(to right,blue ,green);
+		  padding-bottom: 5%;;
+		  position :absolute;
+		 color:white;
+		 font-family: cursive;
+		  font-size: x-small;
+		  justify-content: center;
+	  margin-top: 20px;
+	  opacity: .50;
+	  }
+	  #bu1
+	  {
+		position:absolute;  
+		top: 90%;
+	  left: 35%;
+	  }
+	   /* button in about page */
+	  #bu2
+	  {
+		position:absolute;  
+		top: 90%;
+	  left: 35%;
+	  }
+	   /* button in about page */
+	  #bu3
+	  {
+		position:absolute;  
+		top: 90%;
+	  left: 35%;
+	  }
+	  .name
+	  { margin-left: 55%;
+		  text-shadow:  0 0 4px pink, 0 0 6px palevioletred;
+		  text-align:center;
+		  color:red;
+		  font-weight: 200;
+		  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+		  font-size:large;
+		  text-overflow: clip;
+	  }
+			}
+	  
+		
+
+		
